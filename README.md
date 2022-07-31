@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   <ul>
     <li>C++</li>
     <li>Python</li>
-    <li>Java</li>
     <li>MySQL</li>
   </ul>
 </p>  
